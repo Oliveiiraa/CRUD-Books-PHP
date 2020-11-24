@@ -45,7 +45,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Configure o .env a partir do .env-example com os dados do seu db
 - Rode as migrations com `php artisan migrate`
 - Rode o seeders com `php artisan db:seed`
-- Inicialize com php artisan serve
+- Inicialize com `php artisan serve
 - Acesse no seu localhost:8000
 
 <a id="como-contribuir"></a>
